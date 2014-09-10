@@ -1,0 +1,7 @@
+P:\Labb nr 1.2\Labb nr 1.2\bin\Debug\Labb nr 1.2.exe
+P:\Labb nr 1.2\Labb nr 1.2\bin\Debug\Labb nr 1.2.pdb
+P:\Labb nr 1.2\Labb nr 1.2\obj\x86\Debug\Labb nr 1.2.exe
+P:\Labb nr 1.2\Labb nr 1.2\obj\x86\Debug\Labb nr 1.2.pdb
+P:\Labb nr 1.2\Labb nr 1.2\obj\x86\Debug\Labb nr 1.2.csprojResolveAssemblyReference.cache
+P:\labbfardig\Labb nr 1.2\obj\x86\Debug\Labb nr 1.2.exe
+P:\labbfardig\Labb nr 1.2\obj\x86\Debug\Labb nr 1.2.pdb
